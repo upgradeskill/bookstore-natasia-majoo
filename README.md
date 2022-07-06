@@ -1,4 +1,4 @@
-# Majoo Goalng Bootcamp
+# Majoo Golang Bootcamp
 
 ## Run project
 
